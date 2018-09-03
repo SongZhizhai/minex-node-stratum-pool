@@ -38,7 +38,7 @@ Features
 * When started with a coin deamon that hasn't finished syncing to the network it shows the blockchain download progress and initializes once synced
 
 #### Hashing algorithms supported:
-* ✓ __Equihash__ (Zclassic, Zcash)
+* ✓ __Equihash96_5__ (Minexcoin)
 
 Requirements
 ------------
